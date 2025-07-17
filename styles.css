@@ -1,0 +1,53 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: fantasy;
+    background-color: #162A7E;
+    color: #fff;
+    padding: 10px;
+}
+
+.image-banner {
+    display: flex;
+    background-color: #162A7E;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    list-style-type: none;
+}
+
+ul img {
+    height: 120px;
+    width: auto;
+    margin-right: 10px;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+.recipe-list {
+    background-color: aliceblue;
+    color: #162A7E;
+    padding: 10px;
+}
+
+p, .recipes {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipes {
+    display: flex;
+    margin-top: 10px;
+}
+
+.recipes li {
+    list-style-type: none;
+    margin-right: 10px;
+    padding: 5px 20px;
+    background-color: #DCCBAC;
+    color: #733B50;
+}
